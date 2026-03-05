@@ -20,6 +20,13 @@ Raw .bin (KITTI) → Preprocessing → Azimuthal 1D Signal → Denoising → Eva
 - Applied **Voxel Downsampling** to reduce data density uniformly
 - Applied **Statistical Outlier Removal (SOR)** to eliminate gross noise points
 
+   After preprocessing
+   <img width="1419" height="641" alt="image" src="https://github.com/user-attachments/assets/876fd77e-ee41-4318-8d05-8eb89c30f3b9" />
+   <img width="1450" height="662" alt="image" src="https://github.com/user-attachments/assets/3dc770f6-c5b8-4d16-99de-2b64b1fa0b9c" />
+
+   
+
+
 ### 2. Dimensionality Reduction — Azimuthal Representation
 - Converted the 3D point cloud into a **1D intensity signal** by computing the **maximum intensity per azimuthal bin**
 - This representation preserves the most salient intensity variation along each angular sweep
