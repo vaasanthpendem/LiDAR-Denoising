@@ -66,14 +66,3 @@ Developed as a hands-on application of graduate-level signal processing coursewo
 
 ---
 
-## Repository Structure
-
-```
-LiDAR_denoising/
-├── data/               # Raw .bin KITTI files
-├── preprocessing/      # Voxel downsampling, SOR
-├── denoising/          # SVD, VMD, Wavelet implementations
-├── evaluation/         # SNR, RMSE computation and plots
-└── results/            # Output figures and metrics
-```
-
