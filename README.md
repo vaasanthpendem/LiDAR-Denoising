@@ -56,7 +56,7 @@ Three algorithms were implemented and compared:
 
 - **Language**: Python — chosen for its rich scientific ecosystem (`numpy`, `scipy`, `open3d`, `PyWavelets`, `vmdpy`)
 - **Dataset**: KITTI velodyne dataset. https://s3.eu-central-1.amazonaws.com/avg-kitti/data_road_velodyne.zip
-- **Scope*Scope**: 1D analysis (hardware constraints limited full 2D/3D denoising experimentation)
+- **Scope**: 1D analysis (hardware constraints limited full 2D/3D denoising experimentation)
 
 ---
 
