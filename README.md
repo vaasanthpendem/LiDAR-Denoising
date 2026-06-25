@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project bridges classroom signal processing theory with a practical robotics perception challenge: denoising LiDAR intensity signals. Starting from raw `.bin` point cloud files, we build a full pipeline from data preprocessing through denoising and quantitative evaluation.
+This project bridges classroom signal processing theory with a practical robotics perception challenge: denoising LiDAR intensity signals. Starting from raw `.bin` point cloud files, we build a full pipeline from the data preprocessing through denoising and quantitative evaluation.
 
 ---
 
